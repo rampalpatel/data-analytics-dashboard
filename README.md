@@ -16,3 +16,28 @@ Sales Target vs. Actual: Tracks progress against sales goals and KPIs.
 
 Filters & Drilldowns: Interactive filters by date, product, region, or salesperson for deeper analysis.
 https://www.kaggle.com/
+Total Sales Revenue
+
+Total income generated from sales over a selected time period.
+
+Number of Units Sold
+
+Total quantity of products/services sold.
+
+Sales Growth Rate (%)
+
+Measures the rate of increase or decrease in sales over time.
+
+Formula: ((Current Period Sales - Previous Period Sales) / Previous Period Sales) * 100
+
+Average Order Value (AOV)
+
+Average revenue per order.
+
+Formula: Total Revenue / Number of Orders
+
+Sales Target Achievement (%)
+
+Shows how much of the sales goal has been achieved.
+
+Formula: (Actual Sales / Target Sales) * 100
