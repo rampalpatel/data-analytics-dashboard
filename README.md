@@ -1,4 +1,4 @@
-The Sales Data Analytics Dashboard provides a comprehensive, real-time overview of sales performance across various dimensions such as time, region, product category, and customer segments. Designed to support data-driven decision-making, this dashboard enables stakeholders to monitor key sales metrics, identify trends, and uncover opportunities for growth.
+https://github.com/rampalpatelThe Sales Data Analytics Dashboard provides a comprehensive, real-time overview of sales performance across various dimensions such as time, region, product category, and customer segments. Designed to support data-driven decision-making, this dashboard enables stakeholders to monitor key sales metrics, identify trends, and uncover opportunities for growth.
 
 Key Features:
 
